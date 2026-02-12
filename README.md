@@ -49,7 +49,7 @@
 
 ### 🔹 Cloud & Deployment
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,streamlit" />
+  <img src="https://skillicons.dev/icons?i=aws,streamlit" />
 </p>
 
 ### 🔹 Tools
