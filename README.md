@@ -1,8 +1,3 @@
-<!-- ===================== BANNER ===================== -->
-<p align="center">
-  <img src="Banner.png" width="100%" style="max-height:10px; object-fit:cover;" />
-</p>
-
 
 <!-- ===================== NAME & TITLE ===================== -->
 <h1 align="center">Hi 👋, I'm Alisha Verma</h1>
