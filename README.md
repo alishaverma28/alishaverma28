@@ -1,7 +1,8 @@
 <!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="Banner.png" width="100%" />
+  <img src="Banner.png" width="100%" style="max-height:220px; object-fit:cover;" />
 </p>
+
 
 <!-- ===================== NAME & TITLE ===================== -->
 <h1 align="center">Hi 👋, I'm Alisha Verma</h1>
@@ -15,7 +16,7 @@
 
 ## 👩‍💻 About Me
 
-📚 PGP in Data Science (Generative AI Specialization) – Great Lakes Institute of Management
+📚 PGP in Data Science (Generative AI Specialization) – Great Lakes Institute of Management 
 🎓 MCA Graduate (CGPA: 9.1)  
 📊 Strong foundation in Data Analysis, Machine Learning & Statistics  
 🤖 Passionate about Generative AI & LLM-powered applications  
