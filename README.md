@@ -1,6 +1,6 @@
 <!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="Banner.png" width="100%" style="max-height:30px; object-fit:cover;" />
+  <img src="Banner.png" width="100%" style="max-height:10px; object-fit:cover;" />
 </p>
 
 
