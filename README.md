@@ -1,7 +1,8 @@
 <!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="Banner.png" width="100%" style="max-height:220px; object-fit:cover;" />
+  <img src="Banner.png" width="100%" style="max-height:150px; object-fit:cover;" />
 </p>
+
 
 
 <!-- ===================== NAME & TITLE ===================== -->
